@@ -1,0 +1,7 @@
+{
+  "name": "com.aarquiesolutions.packagename",
+  "displayName": "Unity Package Template",
+  "version": "1.0.0",
+  "description": "Description",
+  "type": "library"
+}

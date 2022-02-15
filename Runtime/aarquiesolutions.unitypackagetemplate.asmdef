@@ -1,0 +1,16 @@
+{
+    "name": "aarquiesolutions.unitypackagetemplate",
+    "rootNamespace": "AarquieSolutions.UnityPackageTemplate",
+    "references": [
+        "aarquiesolutions.typeextensions"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
